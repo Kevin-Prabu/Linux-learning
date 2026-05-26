@@ -1,0 +1,19 @@
+OverTheWire - Bandit Level 
+
+1. Objective
+Write the goal of this level.
+
+
+2. Commands Used
+
+```bash
+ls
+cat filename
+ssh user@host -p 2220
+
+
+3. Key Concepts Used
+- Linux command 1
+- Linux command 2
+- Concept (SSH, file permissions, piping, etc.)
+
