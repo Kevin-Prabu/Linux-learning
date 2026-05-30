@@ -1,1 +1,15 @@
-hello
+OverTheWire - Bandit Level 1 -> 2
+
+1. Objective
+The password for the next level is stored in a file called - located in the home directory
+
+2. Commands Used
+
+cat ./
+
+3. Key Concepts Used
+1. cat is a keyterm used to read any file and paste its content in the terminal itself
+2. We would use ./ since 
+   2.2 dot (.) indicates the current directory and when we write ./ we saying in this current directory please find this file something similar could be like Desktop/xyz which means in directory Desktop open xyz file
+
+The reason we use it is (-) has a special function and if we just write "cat -" the sys would register it as "read from standard input" rather then check if its a file name
