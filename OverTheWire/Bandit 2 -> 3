@@ -1,0 +1,17 @@
+OverTheWire - Bandit Level 2 -> 3
+
+1. Objective
+The password for the next level is stored in a file called --spaces in this filename-- located in the home directory
+
+2. Commands Used
+
+```bash
+ls
+cat filename
+ssh user@host -p 2220
+
+
+3. Key Concepts Used
+- Linux command 1
+- Linux command 2
+- Concept (SSH, file permissions, piping, etc.)
